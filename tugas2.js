@@ -1,0 +1,10 @@
+var angka =  123;
+var string = "qwerty";
+var bool = false;
+var undif;
+var array = ["asd","zxc","qwe"];
+console.log(angka);
+console.log(string);
+console.log(bool);
+console.log(undif);
+console.log(array[0]);
